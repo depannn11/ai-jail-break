@@ -1,3 +1,3 @@
 **Jailbreak Ai**
-# pembuat :
-## [depannn](t.me/depannnb1)
+**pembuat :**
+ [depannn](t.me/depannnb1)
