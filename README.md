@@ -1,8 +1,9 @@
 # 🚀 AI Jailbreak Repository
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=AI%20Jailbreak&fontSize=70&animation=fadeIn&fontAlignY=38" alt="Header Animasi" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=60&duration=2000&pause=500&color=00F2FF&center=true&vCenter=true&width=700&height=120&lines=AI+JAILBREAK" alt="Minimalist Glow" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/depannn11/ai-jail-break">
