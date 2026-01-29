@@ -35,7 +35,7 @@ Gunakan tautan di bawah ini untuk langsung mengambil file raw prompt:
 ### 👤 Pembuat
 Dikembangkan dengan ❤️ oleh:
 <p align="left">
-  <a href="https://github.com/depannn11">
+  <a href="https://t.me/depstore11">
     <img src="https://img.shields.io/badge/Creator-@depstore11-gray?style=for-the-badge&logo=telegram" alt="Pembuat">
   </a>
 </p>
